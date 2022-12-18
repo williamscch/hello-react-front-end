@@ -60,7 +60,7 @@ In order to run this project you need:
 
 ### Setup
 
-- Clone the repository by running `git clone https://github.com/VitorGuedesMadeira/Hello-Rails-Front-End.git` in your CLI.
+- Clone the repository by running `git clone https://github.com/williamscch/hello-react-front-end.git` in your CLI.
 - `cd Hello-Rails-Front-End`
 - Run `npm install`
 - Run `npm start` for the local server
