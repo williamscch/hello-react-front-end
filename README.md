@@ -32,6 +32,8 @@
 
 **[Hello React Front End]** This repo was created as an educational project for building an application by using  two different repos, one for the the backend and another one for the frontend. It was created using mainly React/Redux.
 
+> [Back End Repo](https://github.com/williamscch/hello-rails-back-end/)
+
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
