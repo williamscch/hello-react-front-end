@@ -20,12 +20,12 @@ const Greeting = () => {
   }
 
   return (
-    <>
+    <section style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
       <h1>Refresh the Page to See My Random Greetings 😃</h1>
       <span>.......................................................</span>
-      <p>{screenMessage}</p>
+      <strong><h2>{screenMessage}</h2></strong>
       <span>.......................................................</span>
-    </>
+    </section>
   );
 };
 
